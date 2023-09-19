@@ -1520,7 +1520,7 @@ a:hover {
 .site-name,
 #aside-content .author-info__name,
 #aside-content .author-info__description {
-  font-family: -apple-system, BlinkMacSystemFont,"SegoeUI";
+  font-family: YSHST, -apple-system, BlinkMacSystemFont,"SegoeUI";
 }
 .is-center {
   text-align: center;
@@ -1688,7 +1688,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: 14px;
-  font-family: -apple-system, BlinkMacSystemFont,"SegoeUI" !important;
+  font-family: YSHST, -apple-system, BlinkMacSystemFont,"SegoeUI" !important;
 }
 #article-container code {
   padding: 2px 4px;
@@ -2049,7 +2049,7 @@ figure.highlight pre .javascript .function {
   height: 100%;
   vertical-align: top;
   text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont,"SegoeUI";
+  font-family: YSHST, -apple-system, BlinkMacSystemFont,"SegoeUI";
 }
 @media screen and (max-width: 768px) {
   .error404 #error-wrap .error-content .error-info {
